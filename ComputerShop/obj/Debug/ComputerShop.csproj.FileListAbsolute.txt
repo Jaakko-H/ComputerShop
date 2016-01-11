@@ -1,0 +1,8 @@
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Properties.Resources.resources
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Shop.resources
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.GenerateResource.Cache
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+D:\Jaakko\Fontys\Assignments\DPR\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
